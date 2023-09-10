@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "aiinktest.data.unityweb",
+"asmCodeUrl": "aiinktest.asm.code.unityweb",
+"asmMemoryUrl": "aiinktest.asm.memory.unityweb",
+"asmFrameworkUrl": "aiinktest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
